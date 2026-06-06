@@ -1,7 +1,7 @@
 # ✋ Gesture_PC_Control
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)
-![YOLOv26n](https://img.shields.io/badge/YOLOv26n-ultralytics-green?style=flat-square)
+![Python]
+![YOLOv26n]
 
 Control PC mouse and system volume using hand gestures detected in real time by a YOLOv26n neural network via webcam — no extra hardware needed.
 
